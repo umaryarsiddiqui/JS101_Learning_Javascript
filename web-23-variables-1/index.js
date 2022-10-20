@@ -1,0 +1,21 @@
+let school = "masai school";
+console.log(school);
+let x =" A Transformation in sducation";
+console.log(x);
+
+let name = "farman";
+console.log(name);
+var school = "j s public convent";
+console.log(school);
+let grade = 3;
+console.log(grade);
+var section ="section b";
+console.log(section);
+let roolno = 121;
+console.log(roolno);
+let english = 89;
+ console.log(english);
+let math = 85;
+console.log(math);
+let science = 80;
+console.log(science);
